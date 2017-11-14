@@ -125,7 +125,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "openshift",
-                     "name": "wildfly:latest"
+                     "name": "jboss-webserver30-tomcat7-openshift:latest"
                   },
                   "env": [
                      {
